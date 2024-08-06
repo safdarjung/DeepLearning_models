@@ -1,0 +1,6 @@
+mediapipe==0.10.14  # Latest as of now
+opencv-python==4.8.0.74  # Latest as of now
+tensorflow==2.13.0  # Latest as of now
+scikit-learn==1.3.0  # Latest as of now
+matplotlib==3.7.3  # Latest as of now
+protobuf # Compatible with TensorFlow 2.13.0
